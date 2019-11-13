@@ -1,0 +1,6 @@
+development:
+  password: 
+  theme_id: "79405482064"
+  store: mutaetnidali.myshopify.com
+  ignore_files:
+  - config/settings_data.json
